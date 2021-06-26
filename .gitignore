@@ -1,0 +1,13 @@
+/*.php
+.htaccess
+readme.html
+license.txt
+/wp-admin
+/wp-includes
+/wp-content/index.php
+/wp-content/plugins
+/wp-content/languages
+/wp-content/uploads
+/wp-content/upgrade
+/wp-content/themes/*
+!/wp-content/themes/new-theme
